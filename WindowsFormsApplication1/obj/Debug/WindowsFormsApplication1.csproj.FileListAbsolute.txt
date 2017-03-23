@@ -1,0 +1,12 @@
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RockPaperSiccors.exe.config
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RockPaperSiccors.exe
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RockPaperSiccors.pdb
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperSiccors.Properties.Resources.resources
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperSiccors.exe
+c:\users\sp-10\onedrive\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperSiccors.pdb
+C:\Users\sp-10\OneDrive\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sp-10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\RockPaperSiccors.exe.config
+C:\Users\sp-10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperSiccors.exe
+C:\Users\sp-10\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperSiccors.pdb
